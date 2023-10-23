@@ -1,0 +1,26 @@
+container {
+    width: 300px;
+    margin: 0 auto;
+}
+h1{
+    font-family: 'Rochester', cursive;
+}
+
+#taskList {
+    list-style-type: none;
+    padding: 0;
+}
+
+#taskList li {
+    margin: 10px 0;
+}
+
+#taskList li span {
+    margin-left: 10px;
+    font-size: 1.2rem;
+}
+html{
+    background-image: url("./bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
